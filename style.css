@@ -375,6 +375,9 @@ body {
     top: 20%;
     left: 5%;
   }
+  .footer {
+    position: relative;
+  }
 }
 
 @media (max-width: 600px) {
